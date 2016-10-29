@@ -30,11 +30,23 @@ The Manager program allows for inventory update, here adding five Tikis to the s
 
 ![Five Tikis added](/screenshots/5_added_five_tikis.png?raw=true "Five tikis added")
 
-##6. 
+##6. Inventory before purchase
 
-##7. 
+The catalog shows a current stock of 5 (massive) quartz crystals
 
-##8. 
+![Inventory before purchase](/screenshots/6_quartz_before_purchase.png?raw=true "Inventory before purchase")
+
+##7. Purchase from catalog
+
+Two quartz crystals (ID 2, $2000 each) are purchased, and the total is presented as $4000.
+
+![Purchase from catalog](/screenshots/7_quartz_purchase.png?raw=true "Purchase from catalog")
+
+##8. Total purchases updated in Departments table
+
+The $4000 from the quartz purchase now appears in the Departments table
+
+![Departments sales updated](/screenshots/8_quartz_sale_update.png?raw=true "Departments sales updated")
 
 ##9. 
 
