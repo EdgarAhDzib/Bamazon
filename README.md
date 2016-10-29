@@ -38,7 +38,7 @@ The catalog shows a current stock of 5 (massive) quartz crystals
 
 ##7. Purchase from catalog
 
-Two quartz crystals (ID 2, $2000 each) are purchased, and the total is presented as $4000.
+Two quartz crystals (ID 2, $2000 each) are purchased, and the total is presented as $4000
 
 ![Purchase from catalog](/screenshots/7_quartz_purchase.png?raw=true "Purchase from catalog")
 
@@ -48,24 +48,62 @@ The $4000 from the quartz purchase now appears in the Departments table
 
 ![Departments sales updated](/screenshots/8_quartz_sale_update.png?raw=true "Departments sales updated")
 
-##9. 
+##9. Inventory updated after purchase
 
-##10. 
+After the purchase the quartz quantity is reduced from 5 to 3 in the Products table
 
-##11. 
+![Inventory updated after purchase](/screenshots/9_quartz_inventory_update.png?raw=true "Inventory updated after purchase")
 
-##12. 
+##10. Create new department
 
-##13. 
+If the category doesn't already exist, the Executive program allows creation of a new department, here (esoteric) Sigils
 
-##14. 
+![Create new department](/screenshots/10_new_department.png?raw=true "Create new department")
 
-##15. 
+##11. Added to Departments table
 
-##16. 
+The new Sigils department is added to the Departments table, accessible to the Executive program
+
+![Added to Departments table](/screenshots/11_new_department_table_update.png?raw=true "Added to Departments table")
+
+##12. Book purchase
+
+A copy of the Coptic Hoard is purchased for $800
+
+![Book purchase](/screenshots/12_book_purchase.png?raw=true "Book purchase")
+
+##13. Products table update
+
+The Coptic Hoard spellbook quantity is reduced from 5 to 4
+
+![Products table update](/screenshots/13_book_inventory_update.png?raw=true "Products table update")
+
+##14. Department sales update
+
+The Total Sales column for Spellbooks is updated to reflect the $800 purchase for the Coptic Hoard
+
+![Department sales update](/screenshots/14_department_sales_update.png?raw=true "Department sales update")
+
+##15. Amulets purchase
+
+An ivory cross ($90) and two obsidian daggers ($40) are purchased from the Amulets department
+
+![Amulets purchase](/screenshots/15_amulets_purchase_130_dollars.png?raw=true "Amulets purchase")
+
+##16. Amulets department updated
+
+The $130 from the cross and daggers are updated for the Amulets department
+
+![Amulets department updated](/screenshots/16_amulet_department_update.png?raw=true "Amulets department updated")
 
 ##17. 
 
+![Book purchase](/screenshots/12_book_purchase.png?raw=true "Book purchase")
+
 ##18. 
 
+![Book purchase](/screenshots/12_book_purchase.png?raw=true "Book purchase")
+
 ##19. 
+
+![Book purchase](/screenshots/12_book_purchase.png?raw=true "Book purchase")
