@@ -1,0 +1,29 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "A mock catalog",
+  "main": "BamazonCustomer.js",
+  "scripts": {
+    "test": "node BamazonManager.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdgarAhDzib/Bamazon.git"
+  },
+  "dependencies": {
+    "inquirer": "^1.2.2",
+    "mysql": "^2.11.1",
+    "console.table": "^0.7.0"
+  },
+  "keywords": [
+    "sql",
+    "mysql",
+    "node"
+  ],
+  "author": "Edgar Martin del Campo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdgarAhDzib/Bamazon/issues"
+  },
+  "homepage": "https://github.com/EdgarAhDzib/Bamazon#readme"
+}
