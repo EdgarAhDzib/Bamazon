@@ -20,11 +20,15 @@ The 10 Tikis now appear in the Products table
 
 ##4. New item logged
 
-The Tikis are logged in the Products catalog for the customer
+The Tikis are logged in the Products catalog for the manager
 
 ![New item logged](/screenshots/4_new_item_logged.png?raw=true "New item logged")
 
-##5. 
+##5. Add to inventory
+
+The Manager program allows for inventory update, here adding five Tikis to the stock
+
+![Five Tikis added](/screenshots/5_added_five_tikis.png?raw=true "Five tikis added")
 
 ##6. 
 
