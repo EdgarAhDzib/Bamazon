@@ -96,14 +96,20 @@ The $130 from the cross and daggers are updated for the Amulets department
 
 ![Amulets department updated](/screenshots/16_amulet_department_update.png?raw=true "Amulets department updated")
 
-##17. 
+##17. Items with low stock
 
-![Book purchase](/screenshots/12_book_purchase.png?raw=true "Book purchase")
+After the recent purchases three items appear with quantities below 5 in the Products table
 
-##18. 
+![Items with low stock](/screenshots/17_low_stock.png?raw=true "Items with low stock")
 
-![Book purchase](/screenshots/12_book_purchase.png?raw=true "Book purchase")
+##18. Low stock logged
 
-##19. 
+For the Manager program all items with quantities below 5 in the Products table can be listed
 
-![Book purchase](/screenshots/12_book_purchase.png?raw=true "Book purchase")
+![Low stock logged](/screenshots/18_low_stock_logged.png?raw=true "Low stock logged")
+
+##19. Total profit
+
+The Executive program can review total profit for each department by subtracting overhead from sales
+
+![Total profit](/screenshots/19_total_profit.png?raw=true "Total profit")
